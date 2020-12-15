@@ -1,0 +1,23 @@
+picture_path: mountains
+preview:
+  filename: 1
+  original: 1.jpeg
+  sizes:
+    - 1.jpeg
+  thumbnail: 1-thumbnail.jpeg
+pictures:
+  - filename: 1
+    original: 1.jpeg
+    sizes:
+      - 1.jpeg
+    thumbnail: 1-thumbnail.jpeg
+  - filename: 2
+    original: 2.jpeg
+    sizes:
+      - 2.jpeg
+    thumbnail: 2-thumbnail.jpeg
+  - filename: 3
+    original: 3.jpeg
+    sizes:
+      - 3.jpeg
+    thumbnail: 3-thumbnail.jpeg

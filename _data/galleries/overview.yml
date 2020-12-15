@@ -1,0 +1,17 @@
+- title: Activites
+  directory: mountains
+  preview:
+    filename: 1.jpeg
+    original: 1-thumbnail.jpeg
+    sizes:
+      - 1-thumbnail.jpeg
+    thumbnail: 1-thumbnail.jpeg
+
+- title: Friends
+  directory: Fest
+  preview:
+    filename: 3.jpeg
+    original: 3-thumbnail.jpeg
+    sizes:
+      - 3-thumbnail.jpeg
+    thumbnail: 3-thumbnail.jpeg

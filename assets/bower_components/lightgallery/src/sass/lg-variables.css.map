@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "lg-variables.scss"
+    ],
+    "names": [],
+    "file": "lg-variables.css"
+}
