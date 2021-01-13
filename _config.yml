@@ -83,7 +83,8 @@ medium_username: satyamkumaryadav
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 formspree_email: f/mleopzqd
-disqus_shortname: satyam_kumar_yadav
+disqus_shortname: https-satyam-kumar-yadav-github-io
+
 # hyvor_talk_website_id: 2648
 
 # wakatime username (coding activity)
