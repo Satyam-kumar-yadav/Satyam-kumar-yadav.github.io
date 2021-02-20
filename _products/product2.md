@@ -1,8 +1,8 @@
 ---
-identifier: jekyll-starry-night-2
-name: Java
-price: 7
-image: /assets/img/products/product2.jpg
+identifier: Twitter
+name: Twitter Sentiment Analysis
+code: https://github.com/Satyam-kumar-yadav/TwitterSentiment_Bert_Model
+image: /assets/img/project/twit.jpg
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+This event was held by an Analytics vidya in which more than 15000+ candidates registered for the event and I was successfully able to secured the 24 positions in the event. This event was to predict the sentiments based on Tweets by the peoples. 

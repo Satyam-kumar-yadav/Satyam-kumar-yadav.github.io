@@ -10,7 +10,7 @@ urls:
   - text: About Me
     url: /about
   - text: Projects
-    url: /shop
+    url: /project
   - text: Blog
     url: /blog
   - text: Gallery

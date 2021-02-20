@@ -1,8 +1,8 @@
 ---
-identifier: john-doe-tshrirt
-name: Python
-price: 7
-image: /assets/img/products/product1.jpg
+identifier: Bert Model for Text Classification
+name: Bert Model for Text Classification
+image: /assets/img/project/bert.jpg
+code : https://www.kaggle.com/satyamkryadav/bert-model-96-77
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+I use the Bert Pretrained model and fine tunned it for Toxic Comment Classification organized by Jigsaw/Conversation AI. I had also got my first Bronze model on this notebook with more then 1100+ views.

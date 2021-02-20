@@ -1,8 +1,8 @@
 ---
-identifier: jekyll-starry-night-3
-name: Machine Learning
-price: 7
-image: /assets/img/products/product3.jpg
+identifier: Holiday
+name: Holiday Season
+code: https://github.com/Satyam-kumar-yadav/Snake_breed_pred/blob/main/Christmas.ipynb
+image: /assets/img/project/holiday.jpg
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+It was an image classification problem held at Hackerrank in which more than 4200+ candidates had registered and I used the SOTA InceptionRestnetV2 Pretrained model and successfully secured 21 positions in the event. 
